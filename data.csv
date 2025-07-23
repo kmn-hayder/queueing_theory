@@ -1,0 +1,15 @@
+﻿Stage,Average,Maximum,Minimum
+Queue for CSI Visit Entry,"3,466.61","8,724.43",0.64
+CSI Visit,269.94,"3,973.56",50.09
+Queue for Data Input at station,210.46,419.61,0.02
+Data Input at Station,60,60,60
+Queue for Transport to Lab,0,0,0
+Transport to Lab,115.04,129.91,100.04
+Queue for Sample prep,"1,636.27","5,235.87",830.09
+Sample Prep,55.39,"3,929.72",10.01
+Queue for DNA Extraction,"1,696.73","3,238.79",0.08
+DNA Extraction,"2,881.67","5,759.71","2,880.00"
+Queue for Validation,667.49,"1,531.35",1.06
+Validation,1.5,2,1
+Queue for ID Database,1.58,7.65,0
+ID Database,1.5,2,1
